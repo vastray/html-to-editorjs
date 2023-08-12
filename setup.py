@@ -18,6 +18,7 @@ setup(
     version=VERSION,
     description='Convert HTML to Editor.js JSON format.',
     long_description=readme(),
+    long_description_content_type="text/markdown",
     url='https://github.com/vastray/html_to_editorjs',
     author='Kirill Glushkov',
     author_email='vastray@icloud.com',
